@@ -1,0 +1,11 @@
+---
+title: "Projects"
+---
+
+---------------------------------------
+
+My final year of university I took a class in Bayesian statistics. I quickly developed a preference for the paradigm as compared to the frequentist one that is what I had been taught up to that point. If the definition of statistics is to take data and learn from it, a Bayesian approach made much more intuitive sense to me -- instead of assuming some fixed, true underlying process and seeing how much the data confirms that assumption (call it the "God complex" model), data points should be taken as the only truth, and therefore we must go updating our beliefs about the world based on new data. This more closely resembles the process of learning, and thus Bayesian statistics has become the foundation for the majority of artificial intelligence research. 
+
+The first project I was assigned when I joined the EFFORT team at UC3M was to update a manuscript looking at, very broadly, gender differences in cognitive effort. After a single read of the paper, I was pretty disheartened by the results as well as the scientific rigor, or lack thereof, with which the analysis was done, and on which these disheartening results were lazily based upon. Despite the richness of the data that the project had collected (for context, this was a project that had been awarded an ERC starting grant), it felt that nearly 90% of the information had been tossed out or ignored in the analysis stage. I jotted down a thousand questions on my printout of the paper draft -- "Are girls really exerting less effort than boy, or is this a difference in non-decision reaction times?" "If girls are more cautious and thus react slower, does this mean they're exerting less effort?" This led me to the *drift diffusion model* of decision-making, whose strength comes from the ability to measure latent cognitive processes. 
+
+
