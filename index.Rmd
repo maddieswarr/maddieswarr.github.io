@@ -1,0 +1,9 @@
+---
+title: "Welcome to my website!"
+---
+
+---------------------------------------
+
+This is me. 
+
+<img src="files/maddie.jpg" style="width:50%">
