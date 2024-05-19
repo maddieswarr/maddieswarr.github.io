@@ -1,0 +1,14 @@
+---
+title: "Master's thesis"
+---
+
+---------------------------------------
+
+**MSc in Economic Development and Growth -- UC3M (2022)**  
+*Co-ethnic density and economic outcomes: A microeconometric analysis of how residential settlement patterns impact immigrant wages using the Spanish National Survey of Immigrants*  
+
+<iframe
+    src="files/Swarr_Madeline_MEDEG_Thesis_final_final.pdf"
+    width="100%"
+    height="900px"
+></iframe>

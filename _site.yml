@@ -1,0 +1,18 @@
+---
+name: "my-website"
+navbar:
+  title: "Madeline L. Swarr"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Master's thesis"
+      href: masters_thesis.html
+    - text: "CV"
+      href: cv.html
+  right: 
+    - icon: fa-envelope fa-lg
+      href: mailto:<madelineswarr@gmail.com>
+output:
+  html_document:
+     theme: lumen
+---
