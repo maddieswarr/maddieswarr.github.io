@@ -8,8 +8,7 @@ title: "Welcome to my website!"
 
 I am an applied statistician, social science researcher, and data analyst. I am currently a research associate at the *Universidad Carlos III de Madrid* working on the [EFFORT project](https://www.effort-project.eu/).
 
-On the side, I like to teach, cook, [take (and develop my own!) photos](https://photos.app.goo.gl/YBSiTp9PrWmGvBQt5), play guitar, and coach soccer.  
-
+[On the side](on_the_side.html), I like to teach, cook, take and develop photos, play guitar, and coach soccer.  
 
 ## Work
 
@@ -22,40 +21,3 @@ On the side, I like to teach, cook, [take (and develop my own!) photos](https://
 <img src="files/ethnic_density_anim.gif?raw=true" width="60%" style="display: block; margin: 0 auto"/>
 
 - The EFFORT project uses experimental data collected from a large sample of fifth graders in Madrid and Berlin to assess the effects of social, economic, and motivational contexts on executive functioning. Watch me presenting the work I've done looking at gender effects [here](https://youtu.be/kkl-3iRxezs?si=unubnITj7J2767kM&t=2235).
-
-## Other
-- From 2019 to 2021, I worked as a teacher in a public high school in Madrid implementing the Global Classrooms program. Read about the program and my experience with it [here](https://madelineswarr.wixsite.com/moocfinalproject).
-
-- Since 2021, I have been volunteering as an English teacher and soccer coach for the [Dragones de Lavapiés](https://dragonesdelavapies.com/), a grassroots soccer club with an incredible mission. If you're interested in learning more or collaborating with us, please reach out!  
-
-- As a music lover, I collaborated with [Rock With This/theXchange](https://www.thexchange.live/) writing music reviews of songs we thought were worth sharing with the world. See the links below for some of my curations!
-
-<table>
-<tr>
-	<td>
-		<img src="files/wet.png" class="econ-image"><br>
-		<a href="https://www.instagram.com/reel/Bw0K7--gOrr/" class="econ-link">Old Bone (Jim-E Stack remix) by Wet</a>
-	</td>
-	<td>
-		<img src="files/smino.png" class="econ-image"><br>
-		<a href="https://www.instagram.com/reel/BwST9dRAR2y/" class="econ-link">L.M.F. by Smino</a>
-	</td>
-	<td>
-		<img src="files/jorja_smith.png" class="econ-image"><br>
-		<a href="https://www.instagram.com/p/Bv9w-WZA-y8/" class="econ-link">Loose Ends (feat. Jorja Smith) by Loyle Carner</a>
-	</td>
-</tr>
-<tr>
-	<td>
-		<img src="files/kazy_pongo.png" class="econ-image"><br>
-		<a href="https://www.instagram.com/reel/B1qDv-aHIOI/" class="econ-link">Work (feat. PONGO) by Kazy Lambist</a>
-	</td>
-	<td>
-		<img src="files/arlo_parks.png" class="econ-image"><br>
-		<a href="https://www.instagram.com/reel/Bxp_FgsAAU2/" class="econ-link">Cola by Arlo Parks</a>
-	</td>
-	<td>
-		<img src="files/chase_and_status.png" class="econ-image"><br>
-		<a href="https://www.instagram.com/reel/BxVgxo8gMnV/" class="econ-link">Pressure (feat. Major Lazer) by Chase & Status</a>
-	</td>
-</tr>
