@@ -9,10 +9,12 @@ navbar:
       href: masters_thesis.html
     - text: "CV"
       href: cv.html
+    - text: "On the side"
+      href: on_the_side.html
   right: 
     - icon: fa-envelope fa-lg
       href: mailto:<madelineswarr@gmail.com>
 output:
   html_document:
-     theme: lumen
+     theme: darkly
 ---
