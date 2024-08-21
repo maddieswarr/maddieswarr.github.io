@@ -20,4 +20,4 @@ I am an applied statistician, social science researcher, and data analyst. I am 
 
 <img src="files/ethnic_density_anim.gif?raw=true" width="60%" style="display: block; margin: 0 auto"/>
 
-- The EFFORT project uses experimental data collected from a large sample of fifth graders in Madrid and Berlin to assess the effects of social, economic, and motivational contexts on executive functioning. Watch me presenting the work I've done looking at gender effects [here](https://youtu.be/kkl-3iRxezs?si=unubnITj7J2767kM&t=2235).
+- The EFFORT project uses experimental data collected from a large sample of fifth graders in Madrid and Berlin to assess the effects of social, economic, and motivational contexts on executive functioning. Watch me presenting the work I've done looking at gender effects [here](https://youtu.be/kkl-3iRxezs?si=unubnITj7J2767kM&t=2235). Our final results from this work can be found in [this publication](https://doi.org/10.1016/j.lindif.2024.102494) in Learning and Individual Differences.
